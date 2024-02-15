@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aprmoren-dph
 - 👀 I’m interested in spatial analysis and public health
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning R, Python and Ruby
 - 💞️ I’m looking to collaborate on public health and GIS projoects
 - 📫 How to reach me: don't know yet 
 - 😄 Pronouns: she/her
