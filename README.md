@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aprmoren-dph
+- 👋 Hi, I’m @aprmoren24
 - 👀 I’m interested in spatial analysis and public health
 - 🌱 I’m currently learning R, Python and Ruby
 - 💞️ I’m looking to collaborate on public health and GIS projoects
